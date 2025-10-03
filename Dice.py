@@ -1,3 +1,5 @@
+#Rolling dice game
+#Rolling two dice at a time
 import random
 while True:
     Res=input("Roll the dice ? (Y/N) :").upper()
@@ -14,4 +16,5 @@ while True:
         
 
     
+
 
